@@ -173,7 +173,11 @@ while alternativa != "3":
                     elif alternativa1 == "4":
                         pass
                     elif alternativa1 == "5":
-                        print("Salir del ")
+                        os.system("cls")
+                        print("Saliendo de operaciones...")
+                        time.sleep(1)        
+                        os.system("cls")           
+                        
 
 
 
